@@ -19,11 +19,11 @@ Please enjoy it and always feel free to reach out to me !
 <H3>ETL</H3>
 <H4>⚙️ Automatic download</H4>
 
-Use a [batch file](https://github.com/chieh-kao-1125/MRT-at-Northern-Taiwan/blob/main/ETL/autoTRTC.bat) to trigger [R](https://github.com/chieh-kao-1125/MRT-at-Northern-Taiwan/blob/main/ETL/TRTC_AutoDownloadFile.R) to delete and download last month's data file of TRTC.<br />
+Schedule a task usinig a [batch file](https://github.com/chieh-kao-1125/MRT-at-Northern-Taiwan/blob/main/ETL/autoTRTC.bat) to trigger [R](https://github.com/chieh-kao-1125/MRT-at-Northern-Taiwan/blob/main/ETL/TRTC_AutoDownloadFile.R) to delete and download last month's data file of TRTC.<br />
 Use APIs as data sources in PowerBI to get station and line informations.
 
 <H4>🔧 Data processing</H4>
-Use R to merge all data files of TRTC and make a little adjustments to fit in the relationship with the station dimension data.<br />
+Use R to merge all data files of TRTC and NTMC and make a little adjustments to fit in the relationship with the station dimension data.<br />
 Use power query to merge and append data from different APIs.<br />
 Use DAX to add measures and columns for visualization.
 
