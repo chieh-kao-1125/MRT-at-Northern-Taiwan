@@ -10,4 +10,4 @@ Feel free to reach out to me and enjoy it!
 
 - [TRTC](https://www.metro.taipei/cp.aspx?n=FF31501BEBDD0136)
 
-- [NTMC](https://oas.bas.ntpc.gov.tw/NTPCTRWD/NewPage/Publish.aspx?Mid1=382290000H#) (Including NTDLRT and NTALRT)
+- [NTMC](https://oas.bas.ntpc.gov.tw/NTPCTRWD/NewPage/Publish.aspx?Mid1=382290000H#) (Including Danhai and Ankeng LRT)
