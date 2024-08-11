@@ -26,6 +26,6 @@ Use R to merge all data files of TRTC and make a little adjustments to fit in th
 Use power query to merge and append data from different APIs.<br />
 Use DAX to add measures and columns for visualization.
 
-<H4>🎨 Data visualization</H4>
+<H3>🎨Data visualization</H3>
 
 Use bar chart, line chart, cards......and so on to show and use slicers to enhance interactions.
