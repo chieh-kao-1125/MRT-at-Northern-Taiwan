@@ -11,3 +11,7 @@ Feel free to reach out to me and enjoy it!
 - [TRTC](https://www.metro.taipei/cp.aspx?n=FF31501BEBDD0136) (Including part of the data from Circular line)
 
 - [NTMC](https://oas.bas.ntpc.gov.tw/NTPCTRWD/NewPage/Publish.aspx?Mid1=382290000H#) (Including Danhai and Ankeng LRT)
+
+<H5>🚉 Station and line information</H5>
+
+- [TDX](https://tdx.transportdata.tw/api-service/swagger/basic/268fc230-2e04-471b-a728-a726167c1cfc#/)
