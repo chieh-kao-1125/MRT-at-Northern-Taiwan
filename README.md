@@ -8,6 +8,6 @@ Feel free to reach out to me and enjoy it!
 <H4>Data source</H4>
 <H5>🚊 Transportation volume</H5>
 
-- [TRTC](https://www.metro.taipei/cp.aspx?n=FF31501BEBDD0136)
+- [TRTC](https://www.metro.taipei/cp.aspx?n=FF31501BEBDD0136) (Including part of the data from Circular line)
 
 - [NTMC](https://oas.bas.ntpc.gov.tw/NTPCTRWD/NewPage/Publish.aspx?Mid1=382290000H#) (Including Danhai and Ankeng LRT)
