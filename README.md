@@ -18,7 +18,8 @@ Please enjoy it and always feel free to reach out to me !
 
 <H3>ETL</H3>
 <H4>⚙️ Automatic download</H4>
-Use a batch file to trigger R to delete and download last month's data file of TRTC.<br />
+
+Use a [batch file](https://github.com/chieh-kao-1125/MRT-at-Northern-Taiwan/blob/main/ETL/autoTRTC_github.bat) to trigger R to delete and download last month's data file of TRTC.<br />
 Use APIs as data sources in PowerBI to get station and line informations.
 
 <H4>🔧 Data processing</H4>
