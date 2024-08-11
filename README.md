@@ -8,13 +8,13 @@ Please enjoy it and always feel free to reach out to me !
 <H3>Data source</H3>
 <H4>🚊 Transportation volume</H4>
 
-- [TRTC](https://www.metro.taipei/cp.aspx?n=FF31501BEBDD0136) (Including part of the data from Circular line)
+- [TRTC](https://www.metro.taipei/cp.aspx?n=FF31501BEBDD0136) (Including part of the data from the Circular line)
 
 - [NTMC](https://oas.bas.ntpc.gov.tw/NTPCTRWD/NewPage/Publish.aspx?Mid1=382290000H#) (Including Danhai and Ankeng LRT)
 
 <H4>🚉 Station and line information</H4>
 
-- [TDX](https://tdx.transportdata.tw/api-service/swagger/basic/268fc230-2e04-471b-a728-a726167c1cfc#/)
+- [TDX](https://tdx.transportdata.tw/api-service/swagger/basic/268fc230-2e04-471b-a728-a726167c1cfc#/) (Lack of transfer information of Danhai and Ankeng LRT)
 
 <H3>ETL</H3>
 <H4>⚙️ Automatic download</H4>
