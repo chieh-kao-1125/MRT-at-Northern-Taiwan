@@ -24,7 +24,7 @@ Use APIs as data sources in PowerBI to get station and line informations.
 
 <H4>🔧 Data processing</H4>
 
-Use R to merge all data files of [TRTC](https://github.com/chieh-kao-1125/MRT-at-Northern-Taiwan/blob/main/Data%20processing/TRTC_CodeInPBI.R) and [NTMC](https://github.com/chieh-kao-1125/MRT-at-Northern-Taiwan/blob/main/Data%20processing/NTMC_CodeInPBI.R) and make a little adjustments to fit in the [relationship](https://github.com/chieh-kao-1125/MRT-at-Northern-Taiwan/blob/main/Data%20module.JPG) with the station dimension data.<br />
+Use R to merge all data files of [TRTC](https://github.com/chieh-kao-1125/MRT-at-Northern-Taiwan/blob/main/Data%20processing/TRTC_CodeInPBI.R) and [NTMC](https://github.com/chieh-kao-1125/MRT-at-Northern-Taiwan/blob/main/Data%20processing/NTMC_CodeInPBI.R) and make a little adjustments to fit in the [relationship](https://github.com/chieh-kao-1125/MRT-at-Northern-Taiwan/blob/main/Data_module.JPG) with the station dimension data.<br />
 Use power query to merge and append data from different APIs.<br />
 Use DAX to add measures, columns, tables, and parameters for visualization.
 
