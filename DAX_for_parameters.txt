@@ -1,0 +1,16 @@
+--For the number of month to show
+P_DYN_MON = GENERATESERIES(0, 18, 1)
+
+--To switch between people who come in and go out
+P_INT&OUT = 
+{
+    "IN", 
+    "OUT"
+}
+
+--To switch between transportation volume of TRTC and NTMC
+P_TRTCorNTMC = 
+{
+    "TRTC", 
+    "NTMC"
+}
