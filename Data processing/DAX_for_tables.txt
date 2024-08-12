@@ -1,0 +1,5 @@
+--For time dimension
+C_CALENDAR = CALENDAR(DATE(2015,1,1), DATE(2100,1,1))
+
+--For relative time
+C_RELATIVE_CALENDAR = CALENDAR(DATE(2015,1,1), DATE(2100,1,1))
