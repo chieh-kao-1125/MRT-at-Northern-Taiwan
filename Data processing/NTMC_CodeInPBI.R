@@ -44,14 +44,6 @@ DATA <- lapply(files, function(x) {
 
 NTMC_DATA <- do.call(rbind, DATA)
 
-## alter value to fit the relationship
-NTMC_DATA$STATION <- replace(NTMC_DATA$STATION, NTMC_DATA$STATION == "板橋", "Y板橋")
-NTMC_DATA$STATION <- replace(NTMC_DATA$STATION, NTMC_DATA$STATION == "紅樹林", "V紅樹林")
-NTMC_DATA$STATION <- replace(
-  NTMC_DATA$STATION, 
-  NTMC_DATA$STATION == "十四張", 
-  paste(substr(NTMC_DATA$STATION_CODE[NTMC_DATA$STATION == "十四張"], 1, 1), "十四張", sep = ""))
-
 ## write the correct station code to the null data
 T_STATION_CODE <- cbind(NTMC_DATA[1], NTMC_DATA[5]) %>% 
   filter(NTMC_DATA$STATION_CODE != "") %>% 
