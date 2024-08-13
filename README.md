@@ -19,7 +19,7 @@ Please enjoy it and always feel free to reach out to me !
 <H3>ETL</H3>
 <H4>⚙️ Automatic download</H4>
 
-Schedule a task usinig a [batch file](https://github.com/chieh-kao-1125/MRT-at-Northern-Taiwan/blob/main/ETL/autoTRTC.bat) to trigger [R](https://github.com/chieh-kao-1125/MRT-at-Northern-Taiwan/blob/main/ETL/TRTC_AutoDownloadFile.R) to delete and download last month's data file of TRTC.<br />
+Schedule a task usinig a [batch file](https://github.com/chieh-kao-1125/MRT_at_Northern_Taiwan/blob/main/Automatic%20download/autoTRTC.bat) to trigger [R](https://github.com/chieh-kao-1125/MRT_at_Northern_Taiwan/blob/main/Automatic%20download/TRTC_AutoDownloadFile.R) to delete and download last month's data file of TRTC.<br />
 Use APIs as data sources in PowerBI to get station and line informations.
 
 <H4>🔧 Data processing</H4>
