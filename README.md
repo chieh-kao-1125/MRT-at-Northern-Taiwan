@@ -1,7 +1,7 @@
 <H2>MRT at Northern Taiwan</H2>
 Mass Raid Transit is fascinating. Extracting informations from the daily/monthly transportation volume and interpreting it into graphs are so deightful.
 
-This is a practice integrating Batch, R and PowerBI, presenting trends and statistics of MRT transportation volume in northern Taiwan.
+This is a project integrating Batch, R and PowerBI, presenting trends and statistics of MRT transportation volume in northern Taiwan.
 
 Please enjoy it and always feel free to reach out to me !
 
