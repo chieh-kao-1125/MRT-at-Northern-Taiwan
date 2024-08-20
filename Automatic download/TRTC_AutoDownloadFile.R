@@ -1,10 +1,6 @@
 #### PACKAGES ----
-##install.packages("tidyr")
-##install.packages("readODS")
 ##install.packages("lubridate")
 
-library(tidyr)
-library(readODS)
 library(lubridate)
 
 #### DOWNDLOAD DATA OF LAST MONTH ----
@@ -17,6 +13,5 @@ if(exists("DATALASTMONTH")) {
   file.remove(DEST)
   download.file(URL, DEST, mode = "wb")
 } else {
-    download.file(URL, DEST, mode = "wb")
-  }
-
+  download.file(URL, DEST, mode = "wb")
+}
