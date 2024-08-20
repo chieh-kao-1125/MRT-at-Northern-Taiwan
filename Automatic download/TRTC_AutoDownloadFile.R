@@ -13,7 +13,6 @@ URL <- paste("https://web.metro.taipei/RidershipPerStation/", LASTMONTH, "_cht.o
 DEST <- paste("/YOUR/FILE/PATH/", LASTMONTH, "_cht.ods", sep = "")
 
 ## REMOVE FIRST, DOWNLOAD AFTER
-##DATALASTMONTH <- readODS::read_ods(DEST, sheet = 1)
 if(exists("DATALASTMONTH")) {
   file.remove(DEST)
   download.file(URL, DEST, mode = "wb")
