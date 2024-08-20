@@ -30,4 +30,4 @@ Use DAX to add measures, columns, [tables](https://github.com/chieh-kao-1125/MRT
 
 <H3>🎨Data visualization</H3>
 
-Use bar chart, line chart, cards......and so on to show and use slicers to enhance interactions.
+![image](https://github.com/chieh-kao-1125/MRT_at_Northern_Taiwan/blob/main/Graphs/Dashboard.jpg)
